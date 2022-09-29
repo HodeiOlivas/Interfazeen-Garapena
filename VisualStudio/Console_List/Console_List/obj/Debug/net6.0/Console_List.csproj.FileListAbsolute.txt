@@ -1,0 +1,15 @@
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\bin\Debug\net6.0\Console_List.exe
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\bin\Debug\net6.0\Console_List.deps.json
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\bin\Debug\net6.0\Console_List.runtimeconfig.json
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\bin\Debug\net6.0\Console_List.dll
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\bin\Debug\net6.0\Console_List.pdb
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\obj\Debug\net6.0\Console_List.csproj.AssemblyReference.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\obj\Debug\net6.0\Console_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\obj\Debug\net6.0\Console_List.AssemblyInfoInputs.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\obj\Debug\net6.0\Console_List.AssemblyInfo.cs
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\obj\Debug\net6.0\Console_List.csproj.CoreCompileInputs.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\obj\Debug\net6.0\Console_List.dll
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\obj\Debug\net6.0\refint\Console_List.dll
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\obj\Debug\net6.0\Console_List.pdb
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\obj\Debug\net6.0\Console_List.genruntimeconfig.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Console_List\Console_List\obj\Debug\net6.0\ref\Console_List.dll

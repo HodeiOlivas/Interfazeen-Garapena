@@ -1,0 +1,17 @@
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\bin\Debug\net6.0-windows\Kalkulagailua.exe
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\bin\Debug\net6.0-windows\Kalkulagailua.deps.json
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\bin\Debug\net6.0-windows\Kalkulagailua.runtimeconfig.json
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\bin\Debug\net6.0-windows\Kalkulagailua.dll
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\bin\Debug\net6.0-windows\Kalkulagailua.pdb
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\obj\Debug\net6.0-windows\Kalkulagailua.csproj.AssemblyReference.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\obj\Debug\net6.0-windows\Kalkulagailua.Form1.resources
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\obj\Debug\net6.0-windows\Kalkulagailua.csproj.GenerateResource.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\obj\Debug\net6.0-windows\Kalkulagailua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\obj\Debug\net6.0-windows\Kalkulagailua.AssemblyInfoInputs.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\obj\Debug\net6.0-windows\Kalkulagailua.AssemblyInfo.cs
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\obj\Debug\net6.0-windows\Kalkulagailua.csproj.CoreCompileInputs.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\obj\Debug\net6.0-windows\Kalkulagailua.dll
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\obj\Debug\net6.0-windows\refint\Kalkulagailua.dll
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\obj\Debug\net6.0-windows\Kalkulagailua.pdb
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\obj\Debug\net6.0-windows\Kalkulagailua.genruntimeconfig.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\Kalkulagailua\Kalkulagailua\obj\Debug\net6.0-windows\ref\Kalkulagailua.dll

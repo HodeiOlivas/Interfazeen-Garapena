@@ -1,0 +1,17 @@
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\bin\Debug\net6.0-windows\ArrayenAriketa.exe
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\bin\Debug\net6.0-windows\ArrayenAriketa.deps.json
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\bin\Debug\net6.0-windows\ArrayenAriketa.runtimeconfig.json
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\bin\Debug\net6.0-windows\ArrayenAriketa.dll
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\bin\Debug\net6.0-windows\ArrayenAriketa.pdb
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\obj\Debug\net6.0-windows\ArrayenAriketa.csproj.AssemblyReference.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\obj\Debug\net6.0-windows\ArrayenAriketa.Form1.resources
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\obj\Debug\net6.0-windows\ArrayenAriketa.csproj.GenerateResource.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\obj\Debug\net6.0-windows\ArrayenAriketa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\obj\Debug\net6.0-windows\ArrayenAriketa.AssemblyInfoInputs.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\obj\Debug\net6.0-windows\ArrayenAriketa.AssemblyInfo.cs
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\obj\Debug\net6.0-windows\ArrayenAriketa.csproj.CoreCompileInputs.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\obj\Debug\net6.0-windows\ArrayenAriketa.dll
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\obj\Debug\net6.0-windows\refint\ArrayenAriketa.dll
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\obj\Debug\net6.0-windows\ArrayenAriketa.pdb
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\obj\Debug\net6.0-windows\ArrayenAriketa.genruntimeconfig.cache
+C:\Users\olivas.hodei\Desktop\DAM2\Interfazeen-Garapena\VisualStudio\ArrayenAriketa\ArrayenAriketa\obj\Debug\net6.0-windows\ref\ArrayenAriketa.dll
