@@ -88,9 +88,9 @@
             this.label1Zenbakia.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.label1Zenbakia.Location = new System.Drawing.Point(241, 126);
             this.label1Zenbakia.Name = "label1Zenbakia";
-            this.label1Zenbakia.Size = new System.Drawing.Size(103, 25);
+            this.label1Zenbakia.Size = new System.Drawing.Size(104, 25);
             this.label1Zenbakia.TabIndex = 16;
-            this.label1Zenbakia.Text = "1.Zenbakia";
+            this.label1Zenbakia.Text = "Zenbakia 1";
             this.label1Zenbakia.Click += new System.EventHandler(this.label1Zenbakia_Click);
             // 
             // Form1

@@ -22,11 +22,11 @@ namespace Ariketa2_List
             {
 
             }
-            public float eragiketa()
+            public static float eragiketa(List<Lista> zenbakiak)
             {
                 float emaitza = 0;
-                emaitza = (zenb + (2 * zenb2) + (3 * zenb3) + (4 * zenb4)) / 4;
-                return emaitza;
+            emaitza = (zenbakiak[0].zenb + (2 * zenbakiak[1].zenb) + (3 * zenbakiak[2].zenb) + (4 * zenbakiak[3].zenb)) / 4;
+            return emaitza;
             }
         }
     }

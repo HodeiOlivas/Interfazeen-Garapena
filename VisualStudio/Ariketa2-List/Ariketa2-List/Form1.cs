@@ -5,6 +5,8 @@ namespace Ariketa2_List
     
     public partial class Form1 : Form
     {
+
+        List<Lista> zenbakiak = new List<Lista>();
      
         public Form1()
         {
@@ -37,9 +39,11 @@ namespace Ariketa2_List
             switch (this.label1Zenbakia.Text.ToLower())
             {
                 case "zenbakia 1":
+                    zenbakiak.Add(new Lista());
                     try
+                         
                     {
-                        list.zenb = float.Parse(this.textBox1.Text);
+                        zenbakiak[0].zenb = float.Parse(this.textBox1.Text);
                         this.label1Zenbakia.Text = "Zenbakia 2";
                         this.textBox1.Text = "";
                         this.textBox1.Focus();
@@ -49,9 +53,10 @@ namespace Ariketa2_List
 
                     break;
                 case "zenbakia 2":
+                    zenbakiak.Add(new Lista());
                     try
                     {
-                        list.zenb2 = float.Parse(this.textBox1.Text);
+                        zenbakiak[1].zenb2 = float.Parse(this.textBox1.Text);
                         this.label1Zenbakia.Text = "Zenbakia 3";
                         this.textBox1.Text = "";
                         this.textBox1.Focus();
@@ -61,9 +66,10 @@ namespace Ariketa2_List
 
                     break;
                 case "zenbakia 3":
+                    zenbakiak.Add(new Lista());
                     try
                     {
-                        list.zenb3 = float.Parse(this.textBox1.Text);
+                        zenbakiak[2].zenb3 = float.Parse(this.textBox1.Text);
                         this.label1Zenbakia.Text = "Zenbakia 4";
                         this.textBox1.Text = "";
                         this.textBox1.Focus();
@@ -73,12 +79,13 @@ namespace Ariketa2_List
 
                     break;
                 case "zenbakia 4":
+                    zenbakiak.Add(new Lista());
                     try
                     {
-                        list.zenb4 = float.Parse(this.textBox1.Text);
+                        zenbakiak[3].zenb4 = float.Parse(this.textBox1.Text);
                         this.textBox1.Text = "";
                         this.label1Zenbakia.Text = "Eragiketa";
-                        this.textBox1.Text = "(" + list.zenb + " + " + "(2 x " + list.zenb2 + ") +" + "(3 x " + list.zenb3 + ") + " + "(4 x " + list.zenb4 + ")) / 4 = " + list.eragiketa();
+                        this.textBox1.Text = "(" + zenbakiak[0].zenb + " + " + "(2 x " + zenbakiak[1].zenb2 + ") +" + "(3 x " + zenbakiak[2].zenb3 + ") + " + "(4 x " + zenbakiak[3].zenb4 + ")) / 4 = " + Lista.eragiketa(zenbakiak);
                     }
                     catch (Exception ex)
                     { MessageBox.Show("zenbaki bat sartu behar dozu. " + ex.Message); }
