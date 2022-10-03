@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olivas.hodei\\Desktop\\DAM2\\Interfazeen-Garapena\\VisualStudio\\Ariketa2-List\\Ariketa2-List\\Ariketa2-List.csproj",
+      "projectUniqueName": "C:\\Users\\olivas.hodei\\Documents\\GitHub\\Interfazeen-Garapena\\VisualStudio\\Ariketa2-List\\Ariketa2-List\\Ariketa2-List.csproj",
       "projectName": "Ariketa2-List",
-      "projectPath": "C:\\Users\\olivas.hodei\\Desktop\\DAM2\\Interfazeen-Garapena\\VisualStudio\\Ariketa2-List\\Ariketa2-List\\Ariketa2-List.csproj",
+      "projectPath": "C:\\Users\\olivas.hodei\\Documents\\GitHub\\Interfazeen-Garapena\\VisualStudio\\Ariketa2-List\\Ariketa2-List\\Ariketa2-List.csproj",
       "packagesPath": "C:\\Users\\olivas.hodei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olivas.hodei\\Desktop\\DAM2\\Interfazeen-Garapena\\VisualStudio\\Ariketa2-List\\Ariketa2-List\\obj\\",
+      "outputPath": "C:\\Users\\olivas.hodei\\Documents\\GitHub\\Interfazeen-Garapena\\VisualStudio\\Ariketa2-List\\Ariketa2-List\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
